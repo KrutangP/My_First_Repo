@@ -1,3 +1,3 @@
 # My_First_Repo
-This is my first GitHub Repository
+This is my first GitHub Repository.
 Author = Krutang Panchal
